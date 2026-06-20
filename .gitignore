@@ -2,6 +2,9 @@
 .gradle/
 build/
 
+# NeoGradle generated run files
+runs/
+
 # IDE
 .idea/
 *.iml
